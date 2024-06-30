@@ -23,20 +23,37 @@ Load Database in your system
 Run the ezyshop.py file.
 ## Screenshots of the Website
 - Login/Signup Page
+  
 ![Example Image](screenshots/login.png)
+
 - Customer Home Page. Customers can browse and add their products to cart here.
+  
 ![Example Image](screenshots/customerhome.png)
+
 - Customer Cart. Customers can see their cart here.
+  
 ![Example Image](screenshots/customercart.png)
+
 - Customer Checkout. Customers can checkout their cart here using any payment options they like.
+  
 ![Example Image](screenshots/customercheckout.png)
+
 - Customer Past Orders.
+  
 ![Example Image](screenshots/customerpastorders.png)
+
 - Admin Home page. From here admins can see the list of vendors working under them. They can reject/kick a vendor under them.
+  
 ![Example Image](screenshots/adminhome.png)
+
 - Admin AddVendor. Admins can add new vendor under them by creating account for them.
+  
 ![Example Image](screenshots/adminaddvendor.png)
+
 - Vendor Home page. Vendors can see the list of their products on the website currently.
+  
 ![Example Image](screenshots/vendorhome.png)
+
 - Vendor AddProduct. Vendors can add new products on the website from here.
+  
 ![Example Image](screenshots/vendoraddproduct.png)
